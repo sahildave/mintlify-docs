@@ -1,7 +1,7 @@
 modules:
-  feedback: true
+  feedback: false
   roadmap: false
-  changelog: true
-  faq: true
-  help: true
+  changelog: false
+  faq: false
+  help: false
   support: false
