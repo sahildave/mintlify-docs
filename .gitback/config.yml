@@ -2,6 +2,6 @@ modules:
   feedback: false
   roadmap: false
   changelog: false
-  faq: true
+  faq: false
   help: true
   support: false
