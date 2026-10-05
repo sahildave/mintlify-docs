@@ -3,5 +3,5 @@ modules:
   roadmap: false
   changelog: false
   faq: false
-  help: true
+  help: false
   support: false
