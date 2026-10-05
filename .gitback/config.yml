@@ -1,0 +1,7 @@
+modules:
+  feedback: true
+  roadmap: false
+  changelog: true
+  faq: true
+  help: true
+  support: false
